@@ -21,6 +21,8 @@ DESCRIPTION - Allows the user to enter a Username and Password in the entry boxe
 JUSTIFICATION - By allowing the User to Login and save their Username and Password, it allows the Program to be accessed by the same people later on.
               - By allowing the User to Sign Up it makes it so the User can save their Username and Password to the Database which allows them to Login later on. 
 
+****1.3 - Success criteria****
+
 ****Welcome Page****
 DESCTIPTION - Has a banner welcoming the user. It allows the user to scroll and see every user’s information that has been entered and is in the Database. 
             - If they press ADD it would move the user to the Details window and allow the user to input their details. 
