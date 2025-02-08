@@ -1,6 +1,6 @@
 ****1. Analysis****
 
-****1.1 - Introduction to your solution****
+****1.1 - Introduction to my solution****
   I’m creating a program where the user can enter a Username and Password and be able to add, edit and delete as much user’s information as needed. 
 
 ****1.2 - Computational Methods****
